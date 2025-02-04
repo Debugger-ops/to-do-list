@@ -59,10 +59,9 @@ npm start
 ```
 task-manager/
 ├── src/
-│   ├── components/
-│   ├── styles/
-│   ├── utils/
+│   ├── components/Navbar.js
 │   └── App.js
+|   |__ App.css 
 ├── public/
 ├── package.json
 └── README.md
@@ -72,8 +71,6 @@ task-manager/
 
 - React.js
 - CSS3
-- Local Storage API
-- Date-fns for date manipulation
 - React Icons
 
 ## Contributing
@@ -84,17 +81,7 @@ task-manager/
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## Bug Reporting
 
-If you find a bug, please create an issue with:
-- Detailed description of the bug
-- Steps to reproduce
-- Expected behavior
-- Screenshots (if applicable)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
