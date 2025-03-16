@@ -5,13 +5,6 @@ A simple and intuitive task management application to help you organize and trac
 ## Features
 
 - Create, read, update, and delete tasks
-- Mark tasks as complete or incomplete
-- Set priority levels (High, Medium, Low)
-- Add due dates to tasks
-- Categorize tasks with labels
-- Filter tasks by status, priority, and category
-- Search functionality to quickly find specific tasks
-- Data persistence using local storage
 
 ## Installation
 
