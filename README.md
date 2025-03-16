@@ -1,4 +1,4 @@
-# Task Manager
+# To Do List
 
 A simple and intuitive task management application to help you organize and track your daily activities.
 
@@ -50,7 +50,7 @@ npm start
 ## File Structure
 
 ```
-task-manager/
+to-do-list/
 ├── src/
 │   ├── components/Navbar.js
 │   └── App.js
